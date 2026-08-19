@@ -197,7 +197,7 @@ Some possible extensions to this project:
 
 ## 👨‍💻 Author
 
-**Ashwith Reddy**
+**Guda Ashwith Reddy**
 
 Electronics & Communication Engineering
 Interested in **VLSI, FPGA and Digital Design**
