@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1825de5-496f-4c62-bd34-eadc4a477206" /># UART Transmitter using Verilog HDL
+# UART Transmitter using Verilog HDL
 
 A simple **UART Transmitter** designed using **Verilog HDL** and simulated in **AMD Vivado**.
 
@@ -205,4 +205,3 @@ Interested in **VLSI, FPGA and Digital Design**
 ---
 
 ⭐ This project is part of my learning journey in **Verilog HDL, FPGA design and VLSI**.
-
