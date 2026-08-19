@@ -199,9 +199,3 @@ Some possible extensions to this project:
 
 **Guda Ashwith Reddy**
 
-Electronics & Communication Engineering
-Interested in **VLSI, FPGA and Digital Design**
-
----
-
-⭐ This project is part of my learning journey in **Verilog HDL, FPGA design and VLSI**.
